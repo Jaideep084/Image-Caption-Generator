@@ -1,6 +1,6 @@
 # Image-Caption-Generator
 This repository contains code for an image caption generator using a combination of a pre-trained VGG16 model and a Long Short-Term Memory (LSTM) network. The model takes an image as input and generates a descriptive caption.
-### Dependencies
+## Dependencies
 Make sure you have the following dependencies installed:
 <br>os
 <br>pickle
